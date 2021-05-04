@@ -1,3 +1,6 @@
+# Data-Modelling-Postgres
+
+
 This Project entails working with a startup, Sparkify, to create a Postgres database with tables designed to optimize queries on
 song play analysis. The role given has been to create a database schema and ETL pipeline for this analysis.
 
@@ -20,4 +23,3 @@ python scripts.etl
 
 Example queries:
 SELECT COUNT(level) FROM users; Number of users with each membership level
-# Data-Modelling-Postgres
